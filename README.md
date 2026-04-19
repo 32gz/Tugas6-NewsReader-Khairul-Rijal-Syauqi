@@ -10,9 +10,9 @@ Aplikasi ini menggunakan layanan dari NewsAPI.org:
 
 - item Parameter:
 
-- item category: technology
+    - item category: technology
 
-- item language: en
+    - item language: en
 
 - item Library Networking: Ktor Client
 
