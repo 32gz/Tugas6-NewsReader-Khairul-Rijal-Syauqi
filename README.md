@@ -6,7 +6,7 @@ API yang Digunakan
 
 Aplikasi ini menggunakan layanan dari NewsAPI.org:
 
-Endpoint: v2/top-headlines
+- item Endpoint: v2/top-headlines
 
 Parameter:
 
