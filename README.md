@@ -8,15 +8,15 @@ Aplikasi ini menggunakan layanan dari NewsAPI.org:
 
 - item Endpoint: v2/top-headlines
 
-Parameter:
+- item Parameter:
 
-category: technology
+- item category: technology
 
-language: en
+- item language: en
 
-Library Networking: Ktor Client
+- item Library Networking: Ktor Client
 
-Library Serialization: Kotlinx Serialization
+- item Library Serialization: Kotlinx Serialization
 
 Screenshot States
 
