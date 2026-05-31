@@ -50,3 +50,8 @@ Tampilan konten lengkap (gambar, judul, author, dan isi berita) setelah salah sa
 Tampilan saat terjadi kegagalan jaringan, API Key salah, atau data kosong. Dilengkapi tombol Coba Lagi.
 
 ![image alt](https://github.com/32gz/Tugas6-NewsReader-Khairul-Rijal-Syauqi/blob/main/Screenshot%202026-05-31%20180219.png)
+
+## Video Demo ##
+
+
+
