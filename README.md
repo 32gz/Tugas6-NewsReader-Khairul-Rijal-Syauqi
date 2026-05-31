@@ -53,5 +53,5 @@ Tampilan saat terjadi kegagalan jaringan, API Key salah, atau data kosong. Dilen
 
 ## Video Demo ##
 
-
+[Video Demo](https://drive.google.com/file/d/1R07eu6LfmWuAjN0aqTNR8X0Nr617PFnA/view?usp=sharing)
 
